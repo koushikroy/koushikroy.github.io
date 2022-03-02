@@ -806,17 +806,17 @@ section.resume-section .resume-item .resume-date {
 	height: 100%;
 }
 .btn {
-	width: 100px;
-	height: 100px;
+	width: 80px;
+	height: 80px;
 	background-color: #fafafa;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin-left: 2em;
-	margin-right: 1em;
+	margin-left: auto;
+	margin-right: auto;
 	cursor: pointer;
 	transition: all 0.3s;
-	border-radius: 10px;
+	border-radius: 15px;
 }
 i.fa {
 	font-size: 40px;
